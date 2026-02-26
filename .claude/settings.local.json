@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpx create-next-app@latest:*)",
+      "Bash(pnpm build:*)",
+      "Bash(npx next build)",
+      "Bash(echo:*)",
+      "Bash(test:*)",
+      "Bash(./node_modules/.bin/next build:*)",
+      "Bash(/Users/fersanz/Documents/cocina-dona-lupe/node_modules/.bin/next build:*)",
+      "Bash(pnpm --version:*)",
+      "Bash(node --version:*)",
+      "Bash(find:*)",
+      "Bash(wc:*)",
+      "Bash(git -C /Users/fersanz/Documents/portfolio/cocina-dona-lupe log --oneline)",
+      "Bash(pnpm add:*)",
+      "Bash(pnpm lint:*)",
+      "Bash(pnpm run dev:*)"
+    ]
+  }
+}
